@@ -21,6 +21,6 @@ Can be used in any template and implemented with the framework you like the most
 
 LinkedIn – [@LarryJr](https://www.linkedin.com/in/larryjunior2121/) – larryjunior21@hotmail.com
 
-Distributed under the XYZ license. See `LICENSE` for more information.
+Distributed under the FREE license. See `LICENSE` for more information.
 
 [https://github.com/LarryJunior21](https://github.com/LarryJunior21)
